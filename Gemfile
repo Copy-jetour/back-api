@@ -45,7 +45,7 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 
   # Pry is a runtime developer console and IRB alternative with powerful introspection capabilities. [https://github.com/pry/pry]
-  gem "pry", "~> 0.14.2"
+  gem "pry", "~> 0.15.0"
 end
 
 group :development do
